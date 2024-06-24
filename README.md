@@ -7,7 +7,7 @@ This dummy extension will hide/remove the guided tours and sample data from your
  * truncate the guided tours and the tour steps tables
 
 
-##Found a bug or suggestion for an enhancement?
+## Found a bug or suggestion for an enhancement?
 
 Feel free to submit an issue or pull request.
 
